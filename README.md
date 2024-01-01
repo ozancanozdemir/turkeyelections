@@ -3,7 +3,8 @@
 
 This package is the first and only comprehensive and extensive resource dedicated to Turkish election results. Its purpose is to provide data that is both processable and facilitates analysis of local and general elections, as well as presidential elections held in Turkey between 1995 and 2023. Additionally, the package generates visuals that assist in deriving meaningful insights from these data.
 
-<img src="https://github.com/ozancanozdemir/turkeyelections/assets/33122288/044ead27-1f4b-4c7b-8e4e-37bd0b95e031" width="200">
+<img src="https://github.com/ozancanozdemir/turkeyelections/assets/33122288/68f73024-fbf5-4316-bda4-00d055cc6eaa" width="200">
+
 
 ### Installation 
 
@@ -63,26 +64,30 @@ The package has 4 main functions.
  
 ```show_results_for_turkey(genel_secim_2007_turkiye)```
 
-  ![image](https://github.com/ozancanozdemir/turkeyelections/assets/33122288/aecc60f8-70ea-44c7-ab98-aa9cb6823aed)
+![image](https://github.com/ozancanozdemir/turkeyelections/assets/33122288/01349aeb-b084-4245-95f7-1a989bc37f43)
+
 
 ```show_results_for_turkey(genel_secim_2007_turkiye,percentage =TRUE)```
 
-![image](https://github.com/ozancanozdemir/turkeyelections/assets/33122288/273f5cd2-c941-4c31-8a3c-ddf44f97396f)
+![image](https://github.com/ozancanozdemir/turkeyelections/assets/33122288/19efe27d-b96b-4538-9785-694b184f1d91)
+
 
 
 + ```show_parliament()```  It visualizes parliament with respect to election results across Turkey.
 
 ```show_parliament(genel_secim_2002_turkiye)```
 
-![image](https://github.com/ozancanozdemir/turkeyelections/assets/33122288/8c7153d4-c3cd-4a3f-906d-7a800293ac33)
+![image](https://github.com/ozancanozdemir/turkeyelections/assets/33122288/2d7c9ad5-0d6f-49d0-ab98-8b8fb2c90168)
+
 
 
 + ```show_province_and_party()``` It  displays the election results of a specified political party in a given province, both as percentages and as absolute figures, in the form of a graph.
 
 ```show_province_and_party("Ankara", "CHP")```
 
-![image](https://github.com/ozancanozdemir/turkeyelections/assets/33122288/df1ff395-758d-4baa-b334-719c53a21de9)
+![image](https://github.com/ozancanozdemir/turkeyelections/assets/33122288/427d3a6a-14ac-4da5-b41c-b4d90f52d862)
+
 
 ```show_province_and_party("Ankara", "CHP",percentage =TRUE)```
 
-![image](https://github.com/ozancanozdemir/turkeyelections/assets/33122288/20a95b35-efd7-44f8-aa6a-4c18ecb16d32)
+![image](https://github.com/ozancanozdemir/turkeyelections/assets/33122288/e2b5bb0e-48c6-4e76-822a-1ffdac67de57)

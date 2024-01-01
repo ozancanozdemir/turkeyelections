@@ -1,0 +1,6 @@
+.onAttach <- function(libname, pkgname) {
+  # ...
+  packageStartupMessage("Welcome to turkeyelections package!\nThis is a R package for the Election results in Turkey between 1995 and 2023.")
+
+  # ...
+}

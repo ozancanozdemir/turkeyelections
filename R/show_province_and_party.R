@@ -10,6 +10,7 @@
 
 
 show_province_and_party<-function(province,party,percentage=FALSE){
+  library(tidyverse)
   genel_secim_1995_il<-turkeyelections::genel_secim_1995_il
   genel_secim_1999_il<-turkeyelections::genel_secim_1999_il
   genel_secim_2002_il<-turkeyelections::genel_secim_2002_il

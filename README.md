@@ -8,10 +8,16 @@ This package is the first and only comprehensive and extensive resource dedicate
 
 ### Installation 
 
-Since the package is available only on GitHub, you can use the following command for the installation. 
+You can install the package either from GitHub 
 
 ```
 remotes::install_github('ozancanozdemir/turkeyelections')
+```
+
+Or from CRAN
+
+```
+install.packages("turkeyelections")
 ```
 ### The Usage 
 

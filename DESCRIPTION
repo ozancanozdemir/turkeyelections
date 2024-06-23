@@ -1,7 +1,7 @@
 Package: turkeyelections
 Type: Package
 Title: The Most Comprehensive R Package for Turkish Election Results
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: c(
     person(given = "Ozancan",
              family = "Ozdemir",
@@ -15,10 +15,11 @@ Depends:
     R (>= 4.0)
 Imports:
     ggplot2,
-    ggparliament,
+    ggpol,
     stringr,
     dplyr,
-    stats
+    stats,
+    colorRamp2
 Suggests: 
     testthat (>= 3.0.0),
     devtools,

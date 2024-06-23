@@ -1,3 +1,3 @@
-# turkeyelections 0.1.0
+# turkeyelections 0.1.2
 
-* Initial CRAN submission.
+* show_parliament function was updated. All ggparliament dependecies were removed. 

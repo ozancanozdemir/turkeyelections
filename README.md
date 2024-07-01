@@ -6,6 +6,8 @@ This package is the first and only comprehensive and extensive resource dedicate
 <img src="https://github.com/ozancanozdemir/turkeyelections/assets/33122288/68f73024-fbf5-4316-bda4-00d055cc6eaa" width="200">
 
 
+**You can read the package's article published in Journal of Statistics and Applied Sciences for more information about the package and its usage from [here](https://dergipark.org.tr/tr/pub/jsas/issue/85489/1456233)**
+
 ### Installation 
 
 You can install the package either from GitHub 

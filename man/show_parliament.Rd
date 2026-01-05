@@ -17,6 +17,12 @@ A function that visualizes parliament with respect to election results across Tu
 }
 \examples{
 \donttest{
-show_parliament()
+# Data example
+genel_election_data <- data.frame(
+  Parti = c("AKP", "CHP", "MHP", "IYI", "HDP"),
+  Sandalye = c(290, 150, 50, 40, 60),
+  stringsAsFactors = FALSE
+)
+show_parliament(genel_election_data)
 }
 }

@@ -33,7 +33,8 @@ data("yerel_secim_2014_buyuksehir_turkiye", envir = environment())
 data("yerel_secim_2014_il", envir = environment())
 data("yerel_secim_2019_buyuksehir_turkiye", envir = environment())
 data("yerel_secim_2019_il", envir = environment())
-
+data("yerel_secim_2024_turkiye", envir = environment())
+data("yerel_secim_2024_il", envir = environment())
 
 
 
@@ -71,7 +72,9 @@ globalVariables(c(
   names(yerel_secim_2014_buyuksehir_turkiye),
   names(yerel_secim_2014_il),
   names(yerel_secim_2019_buyuksehir_turkiye),
-  names(yerel_secim_2019_il)
+  names(yerel_secim_2019_il),
+  names(yerel_secim_2024_turkiye),
+  names(yerel_secim_2024_il)
 ))
 
 

@@ -7,9 +7,9 @@
 \format{
 A data frame with 6 rows and 3 variables:
 \describe{
-  \item{Aday}{aday adi, name of the candidate}
-  \item{Oy}{alinan oy sayisi, the number of votes received}
-  \item{Yuzde}{alinan oy sayisi (yuzde olarak), the percentage of votes received}
+\item{Aday}{aday adi, name of the candidate}
+\item{Oy}{alinan oy sayisi, the number of votes received}
+\item{Yuzde}{alinan oy sayisi (yuzde olarak), the percentage of votes received}
 }
 }
 \source{

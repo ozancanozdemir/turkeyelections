@@ -214,9 +214,9 @@
 #'   \item{RECEP_TAYYIP_ERDOGAN}{recep tayyip erdoganin aldigi oy sayisi, the number of valid votes that recep tayyip erdogan received}
 #'   \item{SELAHATTIN_DEMIRTAS}{selahattin demirtasin aldigi oy sayisi, the number of valid votes that selahattin demirtas received}
 #'   \item{EKMELEDDIN_MEHMET_IHSANOGLU}{ekmeleddin mehmet ihsanoglunun aldigi oy sayisi, the number of valid votes that ekmeleddin mehmet ihsanoglu received}
-#'   \item{RECEP_TAYYIP_ERDOGAN_\%}{recep tayyip erdoganin aldigi oy yuzdesi, the percentage of valid votes that recep tayyip erdogan received}
-#'   \item{SELAHATTIN_DEMIRTAS_\%}{selahattin demirtasin aldigi oy yuzdesi, the percentage of valid votes that selahattin demirtas received}
-#'   \item{EKMELEDDIN_MEHMET_IHSANOGLU_\%}{ekmeleddin mehmet ihsanoglunun aldigi oy yuzdesi, the percentage of valid votes that ekmeleddin mehmet ihsanoglu received}
+#'   \item{RECEP_TAYYIP_ERDOGAN_%}{recep tayyip erdoganin aldigi oy yuzdesi, the percentage of valid votes that recep tayyip erdogan received}
+#'   \item{SELAHATTIN_DEMIRTAS_%}{selahattin demirtasin aldigi oy yuzdesi, the percentage of valid votes that selahattin demirtas received}
+#'   \item{EKMELEDDIN_MEHMET_IHSANOGLU_%}{ekmeleddin mehmet ihsanoglunun aldigi oy yuzdesi, the percentage of valid votes that ekmeleddin mehmet ihsanoglu received}
 #' }
 #' @source {YSK (Supreme Election Council)}
 "cb_2014_il"
@@ -238,12 +238,12 @@
 #'   \item{SELAHATTIN_DEMIRTAS}{selahattin demirtasin aldigi oy sayisi, the number of valid votes that selahattin demirtas received}
 #'   \item{TEMEL_KARAMOLLAOGLU}{temel karamollaoglunun aldigi oy sayisi, the number of valid votes that temel karamollaoglu received }
 #'   \item{DOGU_PERINCEK}{dogu perincekin aldigi oy sayisi, the number of valid votes that dogu perincek received }
-#'   \item{MUHARREM_INCE_\%}{muharrem incenin aldigi oy yuzdesi, the percentage of valid votes that muharrem ince received }
-#'   \item{MERAL_AKSENER_\%}{meral aksenerin aldigi oy yuzdesi, the percentage of valid votes that meral aksener received }
-#'   \item{RECEP_TAYYIP_ERDOGAN_\%}{recep tayyip erdoganin aldigi oy yuzdesi, the percentage of valid votes that recep tayyip erdogan received }
-#'   \item{SELAHATTIN_DEMIRTAS_\%}{selahattin demirtasin aldigi oy yuzdesi, the percentage of valid votes that selahattin demirtas received}
-#'   \item{TEMEL_KARAMOLLAOGLU_\%}{temel karamollaoglunun aldigi oy yuzdesi, the percentage of valid votes that temel karamollaoglu received }
-#'   \item{DOGU_PERINCEK_\%}{dogu perincekin aldigi oy yuzdesi, the percentage of valid votes that dogu perincek received }
+#'   \item{MUHARREM_INCE_%}{muharrem incenin aldigi oy yuzdesi, the percentage of valid votes that muharrem ince received }
+#'   \item{MERAL_AKSENER_%}{meral aksenerin aldigi oy yuzdesi, the percentage of valid votes that meral aksener received }
+#'   \item{RECEP_TAYYIP_ERDOGAN_%}{recep tayyip erdoganin aldigi oy yuzdesi, the percentage of valid votes that recep tayyip erdogan received }
+#'   \item{SELAHATTIN_DEMIRTAS_%}{selahattin demirtasin aldigi oy yuzdesi, the percentage of valid votes that selahattin demirtas received}
+#'   \item{TEMEL_KARAMOLLAOGLU_%}{temel karamollaoglunun aldigi oy yuzdesi, the percentage of valid votes that temel karamollaoglu received }
+#'   \item{DOGU_PERINCEK_%}{dogu perincekin aldigi oy yuzdesi, the percentage of valid votes that dogu perincek received }
 #' }
 #' @source {YSK (Supreme Election Council)}
 "cb_2018_il"
@@ -261,8 +261,8 @@
 #'   \item{Gecerli_Oy_Toplami}{gecerli oy toplami, the total number of valid votes}
 #'   \item{RECEP_TAYYIP_ERDOGAN}{recep tayyip erdoganin aldigi oy sayisi, the number of valid votes that Recep Tayyip Erdogan received}
 #'   \item{KEMAL_KILICDAROGLU}{kemal kilicdaroglunun aldigi oy sayisi, the number of valid votes that Kemal Kilicdaroglu received}
-#'   \item{RECEP_TAYYIP_ERDOGAN_\%}{recep tayyip erdoganin aldigi oy yuzdesi, the percentage of valid votes that Recep Tayyip Erdogan received}
-#'   \item{KEMAL_KILICDAROGLU_\%}{kemal kilicdaroglunun aldigi oy yuzdesi, the percentage of valid votes that Kemal Kilicdaroglu received}
+#'   \item{RECEP_TAYYIP_ERDOGAN_%}{recep tayyip erdoganin aldigi oy yuzdesi, the percentage of valid votes that Recep Tayyip Erdogan received}
+#'   \item{KEMAL_KILICDAROGLU_%}{kemal kilicdaroglunun aldigi oy yuzdesi, the percentage of valid votes that Kemal Kilicdaroglu received}
 #' }
 #' @source {YSK (Supreme Election Council)}
 "cb_2023_ikinci_tur_il"
@@ -281,10 +281,10 @@
 #'   \item{MUHARREM_INCE}{muharrem incenin aldigi oy sayisi, the number of valid votes that Muharrem Ince received}
 #'   \item{KEMAL_KILICDAROGLU}{kemal kilicdaroglunun aldigi oy sayisi, the number of valid votes that Kemal Kilicdaroglu received}
 #'   \item{SINAN_OGAN}{sinan oganin aldigi oy sayisi, the number of valid votes that Sinan Ogan received}
-#'   \item{RECEP_TAYYIP_ERDOGAN_\%}{recep tayyip erdoganin aldigi oy yuzdesi, the percentage of valid votes that Recep Tayyip Erdogan received}
-#'   \item{MUHARREM_INCE_\%}{muharrem incenin aldigi oy yuzdesi, the percentage of valid votes that Muharrem Ince received}
-#'   \item{KEMAL_KILICDAROGLU_\%}{kemal kilicdaroglunun aldigi oy yuzdesi, the percentage of valid votes that Kemal Kilicdaroglu received}
-#'   \item{SINAN_OGAN_\%}{sinan oganin aldigi oy yuzdesi, the percentage of valid votes that Sinan Ogan received}
+#'   \item{RECEP_TAYYIP_ERDOGAN_%}{recep tayyip erdoganin aldigi oy yuzdesi, the percentage of valid votes that Recep Tayyip Erdogan received}
+#'   \item{MUHARREM_INCE_%}{muharrem incenin aldigi oy yuzdesi, the percentage of valid votes that Muharrem Ince received}
+#'   \item{KEMAL_KILICDAROGLU_%}{kemal kilicdaroglunun aldigi oy yuzdesi, the percentage of valid votes that Kemal Kilicdaroglu received}
+#'   \item{SINAN_OGAN_%}{sinan oganin aldigi oy yuzdesi, the percentage of valid votes that Sinan Ogan received}
 #' }
 #' @source {YSK (Supreme Election Council)}
 "cb_2023_ilk_tur_il"
@@ -298,17 +298,17 @@
 #'   \item{Il}{il, the name of the province}
 #'   \item{MV}{mv, the number of parliamentary seats in each province}
 #'   \item{RP}{rp oy sayisi, the number of votes that the Welfare Party (RP) received}
-#'   \item{RP_\%}{rp oy yuzdesi, the percentage of votes that the Welfare Party (RP) received}
+#'   \item{RP_%}{rp oy yuzdesi, the percentage of votes that the Welfare Party (RP) received}
 #'   \item{ANAP}{anap oy sayisi, the number of votes that the Motherland Party (ANAP) received}
-#'   \item{ANAP_\%}{anap oy yuzdesi, the percentage of votes that the Motherland Party (ANAP) received}
+#'   \item{ANAP_%}{anap oy yuzdesi, the percentage of votes that the Motherland Party (ANAP) received}
 #'   \item{DYP}{dyp oy sayisi, the number of votes that the True Path Party (DYP) received}
-#'   \item{DYP_\%}{dyp oy yuzdesi, the percentage of votes that the True Path Party (DYP) received}
+#'   \item{DYP_%}{dyp oy yuzdesi, the percentage of votes that the True Path Party (DYP) received}
 #'   \item{DSP}{dsp oy sayisi, the number of votes that the Democratic Left Party (DSP) received}
-#'   \item{DSP_\%}{dsp oy yuzdesi, the percentage of votes that the Democratic Left Party (DSP) received}
+#'   \item{DSP_%}{dsp oy yuzdesi, the percentage of votes that the Democratic Left Party (DSP) received}
 #'   \item{CHP}{chp oy sayisi, the number of votes that the Republican People's Party (CHP) received}
-#'   \item{CHP_\%}{chp oy yuzdesi, the percentage of votes that the Republican People's Party (CHP) received}
+#'   \item{CHP_%}{chp oy yuzdesi, the percentage of votes that the Republican People's Party (CHP) received}
 #'   \item{Diger}{diger parti oy sayisi, the number of votes that other parties received}
-#'   \item{Diger_\%}{diger parti oy yuzdesi, the percentage of votes that other parties received}
+#'   \item{Diger_%}{diger parti oy yuzdesi, the percentage of votes that other parties received}
 #'   \item{Toplam}{toplam oy sayisi, the total number of votes cast in each province}
 #' }
 #' @source {YSK (Supreme Election Council)}
@@ -323,17 +323,17 @@
 #'   \item{Il}{il, the name of the province}
 #'   \item{MV}{mv, the number of parliamentary seats in each province}
 #'   \item{DSP}{dsp oy sayisi, the number of votes that the Democratic Left Party (DSP) received}
-#'   \item{DSP_\%}{dsp oy yuzdesi, the percentage of votes that the Democratic Left Party (DSP) received}
+#'   \item{DSP_%}{dsp oy yuzdesi, the percentage of votes that the Democratic Left Party (DSP) received}
 #'   \item{MHP}{mhp oy sayisi, the number of votes that the Nationalist Movement Party (MHP) received}
-#'   \item{MHP_\%}{mhp oy yuzdesi, the percentage of votes that the Nationalist Movement Party (MHP) received}
+#'   \item{MHP_%}{mhp oy yuzdesi, the percentage of votes that the Nationalist Movement Party (MHP) received}
 #'   \item{FP}{fp oy sayisi, the number of votes that the Virtue Party (FP) received}
-#'   \item{FP_\%}{fp oy yuzdesi, the percentage of votes that the Virtue Party (FP) received}
+#'   \item{FP_%}{fp oy yuzdesi, the percentage of votes that the Virtue Party (FP) received}
 #'   \item{ANAP}{anap oy sayisi, the number of votes that the Motherland Party (ANAP) received}
-#'   \item{ANAP_\%}{anap oy yuzdesi, the percentage of votes that the Motherland Party (ANAP) received}
+#'   \item{ANAP_%}{anap oy yuzdesi, the percentage of votes that the Motherland Party (ANAP) received}
 #'   \item{DYP}{dyp oy sayisi, the number of votes that the True Path Party (DYP) received}
-#'   \item{DYP_\%}{dyp oy yuzdesi, the percentage of votes that the True Path Party (DYP) received}
+#'   \item{DYP_%}{dyp oy yuzdesi, the percentage of votes that the True Path Party (DYP) received}
 #'   \item{Diger}{diger parti oy sayisi, the number of votes that other parties received}
-#'   \item{Diger_\%}{diger parti oy yuzdesi, the percentage of votes that other parties received}
+#'   \item{Diger_%}{diger parti oy yuzdesi, the percentage of votes that other parties received}
 #'   \item{Toplam}{toplam oy sayisi, the total number of votes cast in each province}
 #' }
 #' @source {YSK (Supreme Election Council)}
@@ -349,17 +349,17 @@
 #'   \item{Il}{il, the name of the province}
 #'   \item{MV}{mv, the number of parliamentary seats in each province}
 #'   \item{AK_Parti}{ak parti oy sayisi, the number of votes that the Justice and Development Party (AK Parti) received}
-#'   \item{AK_Parti_\%}{ak parti oy yuzdesi, the percentage of votes that the Justice and Development Party (AK Parti) received}
+#'   \item{AK_Parti_%}{ak parti oy yuzdesi, the percentage of votes that the Justice and Development Party (AK Parti) received}
 #'   \item{CHP}{chp oy sayisi, the number of votes that the Republican People's Party (CHP) received}
-#'   \item{CHP_\%}{chp oy yuzdesi, the percentage of votes that the Republican People's Party (CHP) received}
+#'   \item{CHP_%}{chp oy yuzdesi, the percentage of votes that the Republican People's Party (CHP) received}
 #'   \item{DYP}{dyp oy sayisi, the number of votes that the True Path Party (DYP) received}
-#'   \item{DYP_\%}{dyp oy yuzdesi, the percentage of votes that the True Path Party (DYP) received}
+#'   \item{DYP_%}{dyp oy yuzdesi, the percentage of votes that the True Path Party (DYP) received}
 #'   \item{MHP}{mhp oy sayisi, the number of votes that the Nationalist Movement Party (MHP) received}
-#'   \item{MHP_\%}{mhp oy yuzdesi, the percentage of votes that the Nationalist Movement Party (MHP) received}
+#'   \item{MHP_%}{mhp oy yuzdesi, the percentage of votes that the Nationalist Movement Party (MHP) received}
 #'   \item{GP}{gp oy sayisi, the number of votes that the Young Party (GP) received}
-#'   \item{GP_\%}{gp oy yuzdesi, the percentage of votes that the Young Party (GP) received}
+#'   \item{GP_%}{gp oy yuzdesi, the percentage of votes that the Young Party (GP) received}
 #'   \item{Diger}{diger parti oy sayisi, the number of votes that other parties received}
-#'   \item{Diger_\%}{diger parti oy yuzdesi, the percentage of votes that other parties received}
+#'   \item{Diger_%}{diger parti oy yuzdesi, the percentage of votes that other parties received}
 #'   \item{Toplam}{toplam oy sayisi, the total number of votes cast in each province}
 #' }
 #' @source {YSK (Supreme Election Council)}
@@ -374,15 +374,15 @@
 #'   \item{Il}{il, the name of the province}
 #'   \item{MV}{mv, the number of parliamentary seats in each province}
 #'   \item{AK_Parti}{ak parti oy sayisi, the number of votes that the Justice and Development Party (AK Parti) received}
-#'   \item{AK_Parti_\%}{ak parti oy yuzdesi, the percentage of votes that the Justice and Development Party (AK Parti) received}
+#'   \item{AK_Parti_%}{ak parti oy yuzdesi, the percentage of votes that the Justice and Development Party (AK Parti) received}
 #'   \item{CHP}{chp oy sayisi, the number of votes that the Republican People's Party (CHP) received}
-#'   \item{CHP_\%}{chp oy yuzdesi, the percentage of votes that the Republican People's Party (CHP) received}
+#'   \item{CHP_%}{chp oy yuzdesi, the percentage of votes that the Republican People's Party (CHP) received}
 #'   \item{MHP}{mhp oy sayisi, the number of votes that the Nationalist Movement Party (MHP) received}
-#'   \item{MHP_\%}{mhp oy yuzdesi, the percentage of votes that the Nationalist Movement Party (MHP) received}
+#'   \item{MHP_%}{mhp oy yuzdesi, the percentage of votes that the Nationalist Movement Party (MHP) received}
 #'   \item{DP}{dp oy sayisi, the number of votes that the Democratic Party (DP) received}
-#'   \item{DP_\%}{dp oy yuzdesi, the percentage of votes that the Democratic Party (DP) received}
+#'   \item{DP_%}{dp oy yuzdesi, the percentage of votes that the Democratic Party (DP) received}
 #'   \item{Diger}{diger parti oy sayisi, the number of votes that other parties received}
-#'   \item{Diger_\%}{diger parti oy yuzdesi, the percentage of votes that other parties received}
+#'   \item{Diger_%}{diger parti oy yuzdesi, the percentage of votes that other parties received}
 #'   \item{Toplam}{toplam oy sayisi, the total number of votes cast in each province}
 #' }
 #' @source {YSK (Supreme Election Council)}
@@ -397,15 +397,15 @@
 #'   \item{Il}{il, the name of the province}
 #'   \item{MV}{mv, the number of parliamentary seats in each province}
 #'   \item{AK_Parti}{ak parti oy sayisi, the number of votes that the Justice and Development Party (AK Parti) received}
-#'   \item{AK_Parti_\%}{ak parti oy yuzdesi, the percentage of votes that the Justice and Development Party (AK Parti) received}
+#'   \item{AK_Parti_%}{ak parti oy yuzdesi, the percentage of votes that the Justice and Development Party (AK Parti) received}
 #'   \item{CHP}{chp oy sayisi, the number of votes that the Republican People's Party (CHP) received}
-#'   \item{CHP_\%}{chp oy yuzdesi, the percentage of votes that the Republican People's Party (CHP) received}
+#'   \item{CHP_%}{chp oy yuzdesi, the percentage of votes that the Republican People's Party (CHP) received}
 #'   \item{MHP}{mhp oy sayisi, the number of votes that the Nationalist Movement Party (MHP) received}
-#'   \item{MHP_\%}{mhp oy yuzdesi, the percentage of votes that the Nationalist Movement Party (MHP) received}
+#'   \item{MHP_%}{mhp oy yuzdesi, the percentage of votes that the Nationalist Movement Party (MHP) received}
 #'   \item{Bagimsiz}{bagimsiz adaylarin oy sayisi, the number of votes that independent candidates received}
-#'   \item{Bagimsiz_\%}{bagimsiz adaylarin oy yuzdesi, the percentage of votes that independent candidates received}
+#'   \item{Bagimsiz_%}{bagimsiz adaylarin oy yuzdesi, the percentage of votes that independent candidates received}
 #'   \item{Diger}{diger parti oy sayisi, the number of votes that other parties received}
-#'   \item{Diger_\%}{diger parti oy yuzdesi, the percentage of votes that other parties received}
+#'   \item{Diger_%}{diger parti oy yuzdesi, the percentage of votes that other parties received}
 #'   \item{Toplam}{toplam oy sayisi, the total number of votes cast in each province}
 #' }
 #' @source {YSK (Supreme Election Council)}
@@ -420,15 +420,15 @@
 #'   \item{Il}{il, the name of the province}
 #'   \item{MV}{mv, the number of parliamentary seats in each province}
 #'   \item{AK_Parti}{ak parti oy sayisi, the number of votes that the Justice and Development Party (AK Parti) received}
-#'   \item{AK_Parti_\%}{ak parti oy yuzdesi, the percentage of votes that the Justice and Development Party (AK Parti) received}
+#'   \item{AK_Parti_%}{ak parti oy yuzdesi, the percentage of votes that the Justice and Development Party (AK Parti) received}
 #'   \item{CHP}{chp oy sayisi, the number of votes that the Republican People's Party (CHP) received}
-#'   \item{CHP_\%}{chp oy yuzdesi, the percentage of votes that the Republican People's Party (CHP) received}
+#'   \item{CHP_%}{chp oy yuzdesi, the percentage of votes that the Republican People's Party (CHP) received}
 #'   \item{MHP}{mhp oy sayisi, the number of votes that the Nationalist Movement Party (MHP) received}
-#'   \item{MHP_\%}{mhp oy yuzdesi, the percentage of votes that the Nationalist Movement Party (MHP) received}
+#'   \item{MHP_%}{mhp oy yuzdesi, the percentage of votes that the Nationalist Movement Party (MHP) received}
 #'   \item{HDP}{hdp oy sayisi, the number of votes that the Peoples' Democratic Party (HDP) received}
-#'   \item{HDP_\%}{hdp oy yuzdesi, the percentage of votes that the Peoples' Democratic Party (HDP) received}
+#'   \item{HDP_%}{hdp oy yuzdesi, the percentage of votes that the Peoples' Democratic Party (HDP) received}
 #'   \item{IYI_Parti}{iyi parti oy sayisi, the number of votes that the Good Party (IYI Parti) received}
-#'   \item{IYI_Parti_\%}{iyi parti oy yuzdesi, the percentage of votes that the Good Party (IYI Parti) received}
+#'   \item{IYI_Parti_%}{iyi parti oy yuzdesi, the percentage of votes that the Good Party (IYI Parti) received}
 #'   \item{Toplam}{toplam oy sayisi, the total number of votes cast in each province}
 #' }
 #' @source {YSK (Supreme Election Council)}
@@ -474,36 +474,36 @@
 #'   \item{MILLET_ITTIFAKI}{millet ittifakinin oy sayisi, the number of votes the Nation Alliance received}
 #'   \item{ATA_ITTIFAKI}{ata ittifakinin oy sayisi, the number of votes the Ancestor Alliance received}
 #'   \item{BAGIMSIZ_TOPLAM_OY}{bagimsiz adaylarin toplam oy sayisi, the total number of votes independent candidates received}
-#'   \item{MILLET_\%}{millet partisinin oy yuzdesi, the percentage of votes the Nation Party received}
-#'   \item{HAK-PAR_\%}{hak-par'in oy yuzdesi, the percentage of votes the Rights and Freedoms Party received}
-#'   \item{TKP_\%}{tkp'nin oy yuzdesi, the percentage of votes the Communist Party of Turkey received}
-#'   \item{TKH_\%}{tkh'nin oy yuzdesi, the percentage of votes the People's Liberation Party received}
-#'   \item{SOL_PARTI_\%}{sol parti'nin oy yuzdesi, the percentage of votes the Left Party received}
-#'   \item{GENCPARTI_\%}{gencparti'nin oy yuzdesi, the percentage of votes the Young Party received}
-#'   \item{MEMLEKET_\%}{memleket partisinin oy yuzdesi, the percentage of votes the Homeland Party received}
-#'   \item{BBP_\%}{bbp'nin oy yuzdesi, the percentage of votes the Great Unity Party received}
-#'   \item{AK_Parti_\%}{ak parti'nin oy yuzdesi, the percentage of votes the Justice and Development Party received}
-#'   \item{YENIDEN_REFAH_\%}{yeniden refah partisinin oy yuzdesi, the percentage of votes the Refah Party received}
-#'   \item{MHP_\%}{mhp'nin oy yuzdesi, the percentage of votes the Nationalist Movement Party received}
-#'   \item{YESIL_SOL_PARTI_\%}{yesil sol partinin oy yuzdesi, the percentage of votes the Green Left Party received}
-#'   \item{TIP_\%}{tip'in oy yuzdesi, the percentage of votes the Labour Party received}
-#'   \item{AB_\%}{ab'nin oy yuzdesi, the percentage of votes the Bloc Party received}
-#'   \item{ANAP_\%}{anap'in oy yuzdesi, the percentage of votes the Motherland Party received}
-#'   \item{YP_\%}{yp'nin oy yuzdesi, the percentage of votes the New Path Party received}
-#'   \item{HKP_\%}{hkp'nin oy yuzdesi, the percentage of votes the People's Liberation Party received}
-#'   \item{MILLI_YOL_\%}{milli yol'un oy yuzdesi, the percentage of votes the National Course Party received}
-#'   \item{VATAN_PARTISI_\%}{vatan partisinin oy yuzdesi, the percentage of votes the Homeland Party received}
-#'   \item{GBP_\%}{gbp'nin oy yuzdesi, the percentage of votes the Independent Turkey Party received}
-#'   \item{CHP_\%}{chp'nin oy yuzdesi, the percentage of votes the Republican People's Party received}
-#'   \item{IYI_Parti_\%}{iyi parti'nin oy yuzdesi, the percentage of votes the Good Party received}
-#'   \item{AP_\%}{ap'nin oy yuzdesi, the percentage of votes the Alternative Party received}
-#'   \item{ZAFER_PARTISI_\%}{zafer partisinin oy yuzdesi, the percentage of votes the Victory Party received}
-#'   \item{SOSYALIST_GUC_BIRLIGI_ITTIFAKI_\%}{sosyalist guc birligi ittifakinin oy yuzdesi, the percentage of votes the Socialist Power Union Alliance received}
-#'   \item{CUMHUR_ITTIFAKI_\%}{cumhur ittifakinin oy yuzdesi, the percentage of votes the People's Alliance received}
-#'   \item{EMEK_VE_OZGURLUK_ITTIFAKI_\%}{emek ve ozgurluk ittifakinin oy yuzdesi, the percentage of votes the Labour and Freedom Alliance received}
-#'   \item{MILLET_ITTIFAKI_\%}{millet ittifakinin oy yuzdesi, the percentage of votes the Nation Alliance received}
-#'   \item{ATA_ITTIFAKI_\%}{ata ittifakinin oy yuzdesi, the percentage of votes the Ancestor Alliance received}
-#'   \item{BAGIMSIZ_TOPLAM_OY_\%}{bagimsiz adaylarin toplam oy yuzdesi, the percentage of votes independent candidates received}
+#'   \item{MILLET_%}{millet partisinin oy yuzdesi, the percentage of votes the Nation Party received}
+#'   \item{HAK-PAR_%}{hak-par'in oy yuzdesi, the percentage of votes the Rights and Freedoms Party received}
+#'   \item{TKP_%}{tkp'nin oy yuzdesi, the percentage of votes the Communist Party of Turkey received}
+#'   \item{TKH_%}{tkh'nin oy yuzdesi, the percentage of votes the People's Liberation Party received}
+#'   \item{SOL_PARTI_%}{sol parti'nin oy yuzdesi, the percentage of votes the Left Party received}
+#'   \item{GENCPARTI_%}{gencparti'nin oy yuzdesi, the percentage of votes the Young Party received}
+#'   \item{MEMLEKET_%}{memleket partisinin oy yuzdesi, the percentage of votes the Homeland Party received}
+#'   \item{BBP_%}{bbp'nin oy yuzdesi, the percentage of votes the Great Unity Party received}
+#'   \item{AK_Parti_%}{ak parti'nin oy yuzdesi, the percentage of votes the Justice and Development Party received}
+#'   \item{YENIDEN_REFAH_%}{yeniden refah partisinin oy yuzdesi, the percentage of votes the Refah Party received}
+#'   \item{MHP_%}{mhp'nin oy yuzdesi, the percentage of votes the Nationalist Movement Party received}
+#'   \item{YESIL_SOL_PARTI_%}{yesil sol partinin oy yuzdesi, the percentage of votes the Green Left Party received}
+#'   \item{TIP_%}{tip'in oy yuzdesi, the percentage of votes the Labour Party received}
+#'   \item{AB_%}{ab'nin oy yuzdesi, the percentage of votes the Bloc Party received}
+#'   \item{ANAP_%}{anap'in oy yuzdesi, the percentage of votes the Motherland Party received}
+#'   \item{YP_%}{yp'nin oy yuzdesi, the percentage of votes the New Path Party received}
+#'   \item{HKP_%}{hkp'nin oy yuzdesi, the percentage of votes the People's Liberation Party received}
+#'   \item{MILLI_YOL_%}{milli yol'un oy yuzdesi, the percentage of votes the National Course Party received}
+#'   \item{VATAN_PARTISI_%}{vatan partisinin oy yuzdesi, the percentage of votes the Homeland Party received}
+#'   \item{GBP_%}{gbp'nin oy yuzdesi, the percentage of votes the Independent Turkey Party received}
+#'   \item{CHP_%}{chp'nin oy yuzdesi, the percentage of votes the Republican People's Party received}
+#'   \item{IYI_Parti_%}{iyi parti'nin oy yuzdesi, the percentage of votes the Good Party received}
+#'   \item{AP_%}{ap'nin oy yuzdesi, the percentage of votes the Alternative Party received}
+#'   \item{ZAFER_PARTISI_%}{zafer partisinin oy yuzdesi, the percentage of votes the Victory Party received}
+#'   \item{SOSYALIST_GUC_BIRLIGI_ITTIFAKI_%}{sosyalist guc birligi ittifakinin oy yuzdesi, the percentage of votes the Socialist Power Union Alliance received}
+#'   \item{CUMHUR_ITTIFAKI_%}{cumhur ittifakinin oy yuzdesi, the percentage of votes the People's Alliance received}
+#'   \item{EMEK_VE_OZGURLUK_ITTIFAKI_%}{emek ve ozgurluk ittifakinin oy yuzdesi, the percentage of votes the Labour and Freedom Alliance received}
+#'   \item{MILLET_ITTIFAKI_%}{millet ittifakinin oy yuzdesi, the percentage of votes the Nation Alliance received}
+#'   \item{ATA_ITTIFAKI_%}{ata ittifakinin oy yuzdesi, the percentage of votes the Ancestor Alliance received}
+#'   \item{BAGIMSIZ_TOPLAM_OY_%}{bagimsiz adaylarin toplam oy yuzdesi, the percentage of votes independent candidates received}
 #' }
 #' @source {YSK (Supreme Election Council)}
 "genel_secim_2023_il"
@@ -518,15 +518,15 @@
 #'   \item{Il}{il, the name of the province}
 #'   \item{MV}{mv, the number of parliamentary seats in each province}
 #'   \item{AK_Parti}{ak parti oy sayisi, the number of votes that the Justice and Development Party (AK Parti) received}
-#'   \item{AK_Parti_\%}{ak parti oy yuzdesi, the percentage of votes that the Justice and Development Party (AK Parti) received}
+#'   \item{AK_Parti_%}{ak parti oy yuzdesi, the percentage of votes that the Justice and Development Party (AK Parti) received}
 #'   \item{CHP}{chp oy sayisi, the number of votes that the Republican People's Party (CHP) received}
-#'   \item{CHP_\%}{chp oy yuzdesi, the percentage of votes that the Republican People's Party (CHP) received}
+#'   \item{CHP_%}{chp oy yuzdesi, the percentage of votes that the Republican People's Party (CHP) received}
 #'   \item{MHP}{mhp oy sayisi, the number of votes that the Nationalist Movement Party (MHP) received}
-#'   \item{MHP_\%}{mhp oy yuzdesi, the percentage of votes that the Nationalist Movement Party (MHP) received}
+#'   \item{MHP_%}{mhp oy yuzdesi, the percentage of votes that the Nationalist Movement Party (MHP) received}
 #'   \item{HDP}{hdp oy sayisi, the number of votes that the Peoples' Democratic Party (HDP) received}
-#'   \item{HDP_\%}{hdp oy yuzdesi, the percentage of votes that the Peoples' Democratic Party (HDP) received}
+#'   \item{HDP_%}{hdp oy yuzdesi, the percentage of votes that the Peoples' Democratic Party (HDP) received}
 #'   \item{Diger}{diger parti oy sayisi, the number of votes that other parties received}
-#'   \item{Diger_\%}{diger parti oy yuzdesi, the percentage of votes that other parties received}
+#'   \item{Diger_%}{diger parti oy yuzdesi, the percentage of votes that other parties received}
 #'   \item{Toplam}{toplam oy sayisi, the total number of votes cast in each province}
 #' }
 #' @source {YSK (Supreme Election Council)}
@@ -541,13 +541,13 @@
 #'   \item{Il}{il, the name of the province}
 #'   \item{MV}{mv, the number of parliamentary seats in each province}
 #'   \item{AK_Parti}{ak parti oy sayisi, the number of votes that the Justice and Development Party (AK Parti) received}
-#'   \item{AK_Parti_\%}{ak parti oy yuzdesi, the percentage of votes that the Justice and Development Party (AK Parti) received}
+#'   \item{AK_Parti_%}{ak parti oy yuzdesi, the percentage of votes that the Justice and Development Party (AK Parti) received}
 #'   \item{CHP}{chp oy sayisi, the number of votes that the Republican People's Party (CHP) received}
-#'   \item{CHP_\%}{chp oy yuzdesi, the percentage of votes that the Republican People's Party (CHP) received}
+#'   \item{CHP_%}{chp oy yuzdesi, the percentage of votes that the Republican People's Party (CHP) received}
 #'   \item{MHP}{mhp oy sayisi, the number of votes that the Nationalist Movement Party (MHP) received}
-#'   \item{MHP_\%}{mhp oy yuzdesi, the percentage of votes that the Nationalist Movement Party (MHP) received}
+#'   \item{MHP_%}{mhp oy yuzdesi, the percentage of votes that the Nationalist Movement Party (MHP) received}
 #'   \item{HDP}{hdp oy sayisi, the number of votes that the Peoples' Democratic Party (HDP) received}
-#'   \item{HDP_\%}{hdp oy yuzdesi, the percentage of votes that the Peoples' Democratic Party (HDP) received}
+#'   \item{HDP_%}{hdp oy yuzdesi, the percentage of votes that the Peoples' Democratic Party (HDP) received}
 #'   \item{Toplam}{toplam oy sayisi, the total number of votes cast in each province}
 #' }
 #' @source {YSK (Supreme Election Council)}
@@ -630,26 +630,26 @@
 #'   \item{EMEP}{emep'in oy sayisi, the number of votes received by the Labour Party (EMEP) in each province}
 #'   \item{HYP}{hyp'nin oy sayisi, the number of votes received by the People's Ascent Party (HYP) in each province}
 #'   \item{BAGIMSIZ_TOPLAM_OY}{bagimsiz adaylarin toplam oy sayisi, the total number of votes received by independent candidates in each province}
-#'   \item{ANAVATAN_\%}{anavatan partisinin oy yuzdesi, the percentage of votes received by the ANAVATAN party in each province}
-#'   \item{MHP_\%}{mhp'nin oy yuzdesi, the percentage of votes received by the Nationalist Movement Party (MHP) in each province}
-#'   \item{LDP_\%}{ldp'nin oy yuzdesi, the percentage of votes received by the Liberal Democratic Party (LDP) in each province}
-#'   \item{DSP_\%}{dsp'nin oy yuzdesi, the percentage of votes received by the Democratic Left Party (DSP) in each province}
-#'   \item{DTP_\%}{dtp'nin oy yuzdesi, the percentage of votes received by the Democratic Society Party (DTP) in each province}
-#'   \item{IP_\%}{ip'nin oy yuzdesi, the percentage of votes received by the Independent Turkey Party (IP) in each province}
-#'   \item{CHP_\%}{chp'nin oy yuzdesi, the percentage of votes received by the Republican People's Party (CHP) in each province}
-#'   \item{HAK-PAR_\%}{hak-par'in oy yuzdesi, the percentage of votes received by the Rights and Freedoms Party (HAK-PAR) in each province}
-#'   \item{BBP_\%}{bbp'nin oy yuzdesi, the percentage of votes received by the Great Unity Party (BBP) in each province}
-#'   \item{BDP_\%}{bdp'nin oy yuzdesi, the percentage of votes received by the Peace and Democracy Party (BDP) in each province}
-#'   \item{MILLET_\%}{millet partisinin oy yuzdesi, the percentage of votes received by the Nation Party (MILLET) in each province}
-#'   \item{ODP_\%}{odp'nin oy yuzdesi, the percentage of votes received by the Freedom and Solidarity Party (ODP) in each province}
-#'   \item{TKP_\%}{tkp'nin oy yuzdesi, the percentage of votes received by the Communist Party of Turkey (TKP) in each province}
-#'   \item{DP_\%}{dp'nin oy yuzdesi, the percentage of votes received by the Democratic Party (DP) in each province}
-#'   \item{SAADET_\%}{saadet partisinin oy yuzdesi, the percentage of votes received by the Felicity Party (SAADET) in each province}
-#'   \item{AK_PARTI_\%}{ak parti'nin oy yuzdesi, the percentage of votes received by the Justice and Development Party (AK PARTI) in each province}
-#'   \item{BTP_\%}{btp'nin oy yuzdesi, the percentage of votes received by the Independent Turkey Party (BTP) in each province}
-#'   \item{EMEP_\%}{emep'in oy yuzdesi, the percentage of votes received by the Labour Party (EMEP) in each province}
-#'   \item{HYP_\%}{hyp'nin oy yuzdesi, the percentage of votes received by the People's Ascent Party (HYP) in each province}
-#'   \item{BAGIMSIZ_TOPLAM_OY_\%}{bagimsiz adaylarin toplam oy yuzdesi, the total percentage of votes received by independent candidates in each province}
+#'   \item{ANAVATAN_%}{anavatan partisinin oy yuzdesi, the percentage of votes received by the ANAVATAN party in each province}
+#'   \item{MHP_%}{mhp'nin oy yuzdesi, the percentage of votes received by the Nationalist Movement Party (MHP) in each province}
+#'   \item{LDP_%}{ldp'nin oy yuzdesi, the percentage of votes received by the Liberal Democratic Party (LDP) in each province}
+#'   \item{DSP_%}{dsp'nin oy yuzdesi, the percentage of votes received by the Democratic Left Party (DSP) in each province}
+#'   \item{DTP_%}{dtp'nin oy yuzdesi, the percentage of votes received by the Democratic Society Party (DTP) in each province}
+#'   \item{IP_%}{ip'nin oy yuzdesi, the percentage of votes received by the Independent Turkey Party (IP) in each province}
+#'   \item{CHP_%}{chp'nin oy yuzdesi, the percentage of votes received by the Republican People's Party (CHP) in each province}
+#'   \item{HAK-PAR_%}{hak-par'in oy yuzdesi, the percentage of votes received by the Rights and Freedoms Party (HAK-PAR) in each province}
+#'   \item{BBP_%}{bbp'nin oy yuzdesi, the percentage of votes received by the Great Unity Party (BBP) in each province}
+#'   \item{BDP_%}{bdp'nin oy yuzdesi, the percentage of votes received by the Peace and Democracy Party (BDP) in each province}
+#'   \item{MILLET_%}{millet partisinin oy yuzdesi, the percentage of votes received by the Nation Party (MILLET) in each province}
+#'   \item{ODP_%}{odp'nin oy yuzdesi, the percentage of votes received by the Freedom and Solidarity Party (ODP) in each province}
+#'   \item{TKP_%}{tkp'nin oy yuzdesi, the percentage of votes received by the Communist Party of Turkey (TKP) in each province}
+#'   \item{DP_%}{dp'nin oy yuzdesi, the percentage of votes received by the Democratic Party (DP) in each province}
+#'   \item{SAADET_%}{saadet partisinin oy yuzdesi, the percentage of votes received by the Felicity Party (SAADET) in each province}
+#'   \item{AK_PARTI_%}{ak parti'nin oy yuzdesi, the percentage of votes received by the Justice and Development Party (AK PARTI) in each province}
+#'   \item{BTP_%}{btp'nin oy yuzdesi, the percentage of votes received by the Independent Turkey Party (BTP) in each province}
+#'   \item{EMEP_%}{emep'in oy yuzdesi, the percentage of votes received by the Labour Party (EMEP) in each province}
+#'   \item{HYP_%}{hyp'nin oy yuzdesi, the percentage of votes received by the People's Ascent Party (HYP) in each province}
+#'   \item{BAGIMSIZ_TOPLAM_OY_%}{bagimsiz adaylarin toplam oy yuzdesi, the total percentage of votes received by independent candidates in each province}
 #' }
 #' @source {YSK (Supreme Election Council)}
 "yerel_secim_2009_il"
@@ -682,53 +682,53 @@
 #'   \item{Oy_Kullanan_Secmen_Sayisi}{oy kullanan secmen sayisi, the number of voters who voted in each province}
 #'   \item{Gecerli_Oy_Toplami}{gecerli oy toplami, the total number of valid votes in each province}
 #'   \item{HUDA_PAR}{huda-par'in oy sayisi, the number of votes the Free Cause Party (HUDA-PAR) received in each province}
-#'   \item{HUDA_PAR_\%}{huda-par'in oy yuzdesi, the percentage of votes the Free Cause Party (HUDA-PAR) received in each province}
+#'   \item{HUDA_PAR_%}{huda-par'in oy yuzdesi, the percentage of votes the Free Cause Party (HUDA-PAR) received in each province}
 #'   \item{DSP}{dsp'nin oy sayisi, the number of votes the Democratic Left Party (DSP) received in each province}
-#'   \item{DSP_\%}{dsp'nin oy yuzdesi, the percentage of votes the Democratic Left Party (DSP) received in each province}
+#'   \item{DSP_%}{dsp'nin oy yuzdesi, the percentage of votes the Democratic Left Party (DSP) received in each province}
 #'   \item{DYP}{dyp'nin oy sayisi, the number of votes the True Path Party (DYP) received in each province}
-#'   \item{DYP_\%}{dyp'nin oy yuzdesi, the percentage of votes the True Path Party (DYP) received in each province}
+#'   \item{DYP_%}{dyp'nin oy yuzdesi, the percentage of votes the True Path Party (DYP) received in each province}
 #'   \item{TURK_PARTI}{turk partisi'nin oy sayisi, the number of votes the Turkish Party received in each province}
-#'   \item{TURK_PARTI_\%}{turk partisi'nin oy yuzdesi, the percentage of votes the Turkish Party received in each province}
+#'   \item{TURK_PARTI_%}{turk partisi'nin oy yuzdesi, the percentage of votes the Turkish Party received in each province}
 #'   \item{HKP}{hkp'nin oy sayisi, the number of votes the People's Liberation Party (HKP) received in each province}
-#'   \item{HKP_\%}{hkp'nin oy yuzdesi, the percentage of votes the People's Liberation Party (HKP) received in each province}
+#'   \item{HKP_%}{hkp'nin oy yuzdesi, the percentage of votes the People's Liberation Party (HKP) received in each province}
 #'   \item{TKP}{tkp'nin oy sayisi, the number of votes the Communist Party of Turkey (TKP) received in each province}
-#'   \item{TKP_\%}{tkp'nin oy yuzdesi, the percentage of votes the Communist Party of Turkey (TKP) received in each province}
+#'   \item{TKP_%}{tkp'nin oy yuzdesi, the percentage of votes the Communist Party of Turkey (TKP) received in each province}
 #'   \item{BBP}{bbp'nin oy sayisi, the number of votes the Great Unity Party (BBP) received in each province}
-#'   \item{BBP_\%}{bbp'nin oy yuzdesi, the percentage of votes the Great Unity Party (BBP) received in each province}
+#'   \item{BBP_%}{bbp'nin oy yuzdesi, the percentage of votes the Great Unity Party (BBP) received in each province}
 #'   \item{AK_PARTI}{ak parti'nin oy sayisi, the number of votes the Justice and Development Party (AK PARTI) received in each province}
-#'   \item{AK_PARTI_\%}{ak parti'nin oy yuzdesi, the percentage of votes the Justice and Development Party (AK PARTI) received in each province}
+#'   \item{AK_PARTI_%}{ak parti'nin oy yuzdesi, the percentage of votes the Justice and Development Party (AK PARTI) received in each province}
 #'   \item{YURT-P}{yurt-p'nin oy sayisi, the number of votes the Homeland Party (YURT-P) received in each province}
-#'   \item{YURT-P_\%}{yurt-p'nin oy yuzdesi, the percentage of votes the Homeland Party (YURT-P) received in each province}
+#'   \item{YURT-P_%}{yurt-p'nin oy yuzdesi, the percentage of votes the Homeland Party (YURT-P) received in each province}
 #'   \item{DP}{dp'nin oy sayisi, the number of votes the Democratic Party (DP) received in each province}
-#'   \item{DP_\%}{dp'nin oy yuzdesi, the percentage of votes the Democratic Party (DP) received in each province}
+#'   \item{DP_%}{dp'nin oy yuzdesi, the percentage of votes the Democratic Party (DP) received in each province}
 #'   \item{EMEP}{emep'in oy sayisi, the number of votes the Labour Party (EMEP) received in each province}
-#'   \item{EMEP_\%}{emep'in oy yuzdesi, the percentage of votes the Labour Party (EMEP) received in each province}
+#'   \item{EMEP_%}{emep'in oy yuzdesi, the percentage of votes the Labour Party (EMEP) received in each province}
 #'   \item{ODP}{odp'nin oy sayisi, the number of votes the Freedom and Solidarity Party (ODP) received in each province}
-#'   \item{ODP_\%}{odp'nin oy yuzdesi, the percentage of votes the Freedom and Solidarity Party (ODP) received in each province}
+#'   \item{ODP_%}{odp'nin oy yuzdesi, the percentage of votes the Freedom and Solidarity Party (ODP) received in each province}
 #'   \item{MILLET}{millet partisinin oy sayisi, the number of votes the Nation Party (MILLET) received in each province}
-#'   \item{MILLET_\%}{millet partisinin oy yuzdesi, the percentage of votes the Nation Party (MILLET) received in each province}
+#'   \item{MILLET_%}{millet partisinin oy yuzdesi, the percentage of votes the Nation Party (MILLET) received in each province}
 #'   \item{SAADET}{saadet partisinin oy sayisi, the number of votes the Felicity Party (SAADET) received in each province}
-#'   \item{SAADET_\%}{saadet partisinin oy yuzdesi, the percentage of votes the Felicity Party (SAADET) received in each province}
+#'   \item{SAADET_%}{saadet partisinin oy yuzdesi, the percentage of votes the Felicity Party (SAADET) received in each province}
 #'   \item{HAK-PAR}{hak-par'in oy sayisi, the number of votes the Rights and Freedoms Party (HAK-PAR) received in each province}
-#'   \item{HAK-PAR_\%}{hak-par'in oy yuzdesi, the percentage of votes the Rights and Freedoms Party (HAK-PAR) received in each province}
+#'   \item{HAK-PAR_%}{hak-par'in oy yuzdesi, the percentage of votes the Rights and Freedoms Party (HAK-PAR) received in each province}
 #'   \item{LDP}{ldp'nin oy sayisi, the number of votes the Liberal Democratic Party (LDP) received in each province}
-#'   \item{LDP_\%}{ldp'nin oy yuzdesi, the percentage of votes the Liberal Democratic Party (LDP) received in each province}
+#'   \item{LDP_%}{ldp'nin oy yuzdesi, the percentage of votes the Liberal Democratic Party (LDP) received in each province}
 #'   \item{BDP}{bdp'nin oy sayisi, the number of votes the Peace and Democracy Party (BDP) received in each province}
-#'   \item{BDP_\%}{bdp'nin oy yuzdesi, the percentage of votes the Peace and Democracy Party (BDP) received in each province}
+#'   \item{BDP_%}{bdp'nin oy yuzdesi, the percentage of votes the Peace and Democracy Party (BDP) received in each province}
 #'   \item{BTP}{btp'nin oy sayisi, the number of votes the Independent Turkey Party (BTP) received in each province}
-#'   \item{BTP_\%}{btp'nin oy yuzdesi, the percentage of votes the Independent Turkey Party (BTP) received in each province}
+#'   \item{BTP_%}{btp'nin oy yuzdesi, the percentage of votes the Independent Turkey Party (BTP) received in each province}
 #'   \item{IP}{ip'nin oy sayisi, the number of votes the Workers' Party (IP) received in each province}
-#'   \item{IP_\%}{ip'nin oy yuzdesi, the percentage of votes the Workers' Party (IP) received in each province}
+#'   \item{IP_%}{ip'nin oy yuzdesi, the percentage of votes the Workers' Party (IP) received in each province}
 #'   \item{HDP}{hdp'nin oy sayisi, the number of votes the Peoples' Democratic Party (HDP) received in each province}
-#'   \item{HDP_\%}{hdp'nin oy yuzdesi, the percentage of votes the Peoples' Democratic Party (HDP) received in each province}
+#'   \item{HDP_%}{hdp'nin oy yuzdesi, the percentage of votes the Peoples' Democratic Party (HDP) received in each province}
 #'   \item{CHP}{chp'nin oy sayisi, the number of votes the Republican People's Party (CHP) received in each province}
-#'   \item{CHP_\%}{chp'nin oy yuzdesi, the percentage of votes the Republican People's Party (CHP) received in each province}
+#'   \item{CHP_%}{chp'nin oy yuzdesi, the percentage of votes the Republican People's Party (CHP) received in each province}
 #'   \item{HEPAR}{hepar'in oy sayisi, the number of votes the Rights and Equality Party (HEPAR) received in each province}
-#'   \item{HEPAR_\%}{hepar'in oy yuzdesi, the percentage of votes the Rights and Equality Party (HEPAR) received in each province}
+#'   \item{HEPAR_%}{hepar'in oy yuzdesi, the percentage of votes the Rights and Equality Party (HEPAR) received in each province}
 #'   \item{MHP}{mhp'nin oy sayisi, the number of votes the Nationalist Movement Party (MHP) received in each province}
-#'   \item{MHP_\%}{mhp'nin oy yuzdesi, the percentage of votes the Nationalist Movement Party (MHP) received in each province}
+#'   \item{MHP_%}{mhp'nin oy yuzdesi, the percentage of votes the Nationalist Movement Party (MHP) received in each province}
 #'   \item{BAGIMSIZ_TOPLAM_OY}{bagimsiz adaylarin toplam oy sayisi, the total number of votes received by independent candidates in each province}
-#'   \item{BAGIMSIZ_TOPLAM_OY_\%}{bagimsiz adaylarin toplam oy yuzdesi, the total percentage of votes received by independent candidates in each province}
+#'   \item{BAGIMSIZ_TOPLAM_OY_%}{bagimsiz adaylarin toplam oy yuzdesi, the total percentage of votes received by independent candidates in each province}
 #' }
 #' @source {YSK (Supreme Election Council)}
 "yerel_secim_2014_il"
@@ -757,20 +757,20 @@
 #'   \item{HDP}{hdp'nin oy sayisi, the number of votes the Peoples' Democratic Party (HDP) received in each province}
 #'   \item{DSP}{dsp'nin oy sayisi, the number of votes the Democratic Left Party (DSP) received in each province}
 #'   \item{BAGIMSIZ_TOPLAM_OY}{bagimsiz adaylarin toplam oy sayisi, the total number of votes received by independent candidates in each province}
-#'   \item{Il_Adi_\%}{il adinin yuzdesi, the percentage of the total vote in each province}
-#'   \item{SAADET_\%}{saadet partisinin oy yuzdesi, the percentage of votes the Felicity Party (SAADET) received in each province}
-#'   \item{BTP_\%}{btp'nin oy yuzdesi, the percentage of votes the Independent Turkey Party (BTP) received in each province}
-#'   \item{TKP_\%}{tkp'nin oy yuzdesi, the percentage of votes the Communist Party of Turkey (TKP) received in each province}
-#'   \item{VATAN_PARTISI_\%}{vatan partisinin oy yuzdesi, the percentage of votes the Homeland Party (VATAN PARTISI) received in each province}
-#'   \item{BBP_\%}{bbp'nin oy yuzdesi, the percentage of votes the Great Unity Party (BBP) received in each province}
-#'   \item{CHP_\%}{chp'nin oy yuzdesi, the percentage of votes the Republican People's Party (CHP) received in each province}
-#'   \item{AK_PARTI_\%}{ak parti'nin oy yuzdesi, the percentage of votes the Justice and Development Party (AK PARTI) received in each province}
-#'   \item{DP_\%}{dp'nin oy yuzdesi, the percentage of votes the Democratic Party (DP) received in each province}
-#'   \item{MHP_\%}{mhp'nin oy yuzdesi, the percentage of votes the Nationalist Movement Party (MHP) received in each province}
-#'   \item{IYI_PARTI_\%}{iyi parti'nin oy yuzdesi, the percentage of votes the Good Party (IYI PARTI) received in each province}
-#'   \item{HDP_\%}{hdp'nin oy yuzdesi, the percentage of votes the Peoples' Democratic Party (HDP) received in each province}
-#'   \item{DSP_\%}{dsp'nin oy yuzdesi, the percentage of votes the Democratic Left Party (DSP) received in each province}
-#'   \item{BAGIMSIZ_TOPLAM_OY_\%}{bagimsiz adaylarin toplam oy yuzdesi, the total percentage of votes received by independent candidates in each province}
+#'   \item{Il_Adi_%}{il adinin yuzdesi, the percentage of the total vote in each province}
+#'   \item{SAADET_%}{saadet partisinin oy yuzdesi, the percentage of votes the Felicity Party (SAADET) received in each province}
+#'   \item{BTP_%}{btp'nin oy yuzdesi, the percentage of votes the Independent Turkey Party (BTP) received in each province}
+#'   \item{TKP_%}{tkp'nin oy yuzdesi, the percentage of votes the Communist Party of Turkey (TKP) received in each province}
+#'   \item{VATAN_PARTISI_%}{vatan partisinin oy yuzdesi, the percentage of votes the Homeland Party (VATAN PARTISI) received in each province}
+#'   \item{BBP_%}{bbp'nin oy yuzdesi, the percentage of votes the Great Unity Party (BBP) received in each province}
+#'   \item{CHP_%}{chp'nin oy yuzdesi, the percentage of votes the Republican People's Party (CHP) received in each province}
+#'   \item{AK_PARTI_%}{ak parti'nin oy yuzdesi, the percentage of votes the Justice and Development Party (AK PARTI) received in each province}
+#'   \item{DP_%}{dp'nin oy yuzdesi, the percentage of votes the Democratic Party (DP) received in each province}
+#'   \item{MHP_%}{mhp'nin oy yuzdesi, the percentage of votes the Nationalist Movement Party (MHP) received in each province}
+#'   \item{IYI_PARTI_%}{iyi parti'nin oy yuzdesi, the percentage of votes the Good Party (IYI PARTI) received in each province}
+#'   \item{HDP_%}{hdp'nin oy yuzdesi, the percentage of votes the Peoples' Democratic Party (HDP) received in each province}
+#'   \item{DSP_%}{dsp'nin oy yuzdesi, the percentage of votes the Democratic Left Party (DSP) received in each province}
+#'   \item{BAGIMSIZ_TOPLAM_OY_%}{bagimsiz adaylarin toplam oy yuzdesi, the total percentage of votes received by independent candidates in each province}
 #' }
 #' @source {YSK (Supreme Election Council)}
 "yerel_secim_2019_il"
@@ -791,4 +791,104 @@
 #' @source {YSK (Supreme Election Council)}
 "yerel_secim_2019_buyuksehir_turkiye"
 
+#' Information for the 2024 Local Election Results in Turkey by Province
+#' A dataset showing detailed information for the overall results of the 2024 local elections, including vote counts and percentages for all major political parties across Turkish provinces.
+#'
+#' @format A data frame with rows representing various provinces and variables detailing the vote counts and percentages for each party:
+#' \describe{
+#'    \item{İl Adı}{il adı, the name of the province.}
+#'    \item{Kayıtlı Seçmen Sayısı}{kayıtlı seçmen sayısı, the total number of registered voters.}
+#'    \item{Oy Kullanan Seçmen Sayısı}{oy kullanan seçmen sayısı, the total number of voters who cast a ballot.}
+#'    \item{Geçerli Oy Toplamı}{geçerli oy toplamı, the total number of valid votes.}
+#'    \item{AK PARTİ}{AK PARTİ'nin oy sayısı, the total number of votes for the Justice and Development Party (AK PARTI).}
+#'    \item{İYİ PARTİ}{İYİ PARTİ'nin oy sayısı, the total number of votes for the Good Party (İYİ PARTİ).}
+#'    \item{SOL PARTİ}{SOL PARTİ'nin oy sayısı, the total number of votes for the Left Party (SOL PARTİ).}
+#'    \item{BÜYÜK BİRLİK}{BÜYÜK BİRLİK Partisi'nin oy sayısı, the total number of votes for the Great Unity Party (BÜYÜK BİRLİK).}
+#'    \item{MEMLEKET}{MEMLEKET Partisi'nin oy sayısı, the total number of votes for the Homeland Party (MEMLEKET).}
+#'    \item{ANAP}{ANAP'ın oy sayısı, the total number of votes for the Motherland Party (ANAP).}
+#'    \item{DSP}{DSP'nin oy sayısı, the total number of votes for the Democratic Left Party (DSP).}
+#'    \item{YENİDEN REFAH}{YENİDEN REFAH Partisi'nin oy sayısı, the total number of votes for the New Welfare Party (YENİDEN REFAH).}
+#'    \item{DEM Parti}{DEM Parti'nin oy sayısı, the total number of votes for the Peoples' Equality and Democracy Party (DEM Parti).}
+#'    \item{TKP}{TKP'nin oy sayısı, the total number of votes for the Communist Party of Turkey (TKP).}
+#'    \item{ABP}{ABP'nin oy sayısı, the total number of votes for the Anatolian Unity Party (ABP).}
+#'    \item{ZAFER PARTİSİ}{ZAFER PARTİSİ'nin oy sayısı, the total number of votes for the Victory Party (ZAFER PARTİSİ).}
+#'    \item{HKP}{HKP'nin oy sayısı, the total number of votes for the People's Liberation Party (HKP).}
+#'    \item{TKH}{TKH'nin oy sayısı, the total number of votes for the Communist Movement of Turkey (TKH).}
+#'    \item{BTP}{BTP'nin oy sayısı, the total number of votes for the Independent Turkey Party (BTP).}
+#'    \item{GELECEK PARTİSİ}{GELECEK PARTİSİ'nin oy sayısı, the total number of votes for the Future Party (GELECEK PARTİSİ).}
+#'    \item{YTP}{YTP'nin oy sayısı, the total number of votes for the New Turkey Party (YTP).}
+#'    \item{CHP}{CHP'nin oy sayısı, the total number of votes for the Republican People's Party (CHP).}
+#'    \item{EMEP}{EMEP'in oy sayısı, the total number of votes for the Labour Party (EMEP).}
+#'    \item{HÜDA PAR}{HÜDA PAR'ın oy sayısı, the total number of votes for the Free Cause Party (HÜDA PAR).}
+#'    \item{HAK-PAR}{HAK-PAR'ın oy sayısı, the total number of votes for the Rights and Freedoms Party (HAK-PAR).}
+#'    \item{OCAK}{OCAK Partisi'nin oy sayısı, the total number of votes for the OCAK Party.}
+#'    \item{AB PARTİ}{AB PARTİ'nin oy sayısı, the total number of votes for the Justice and Unity Party (AB PARTİ).}
+#'    \item{DP}{DP'nin oy sayısı, the total number of votes for the Democratic Party (DP).}
+#'    \item{GBP}{GBP'nin oy sayısı, the total number of votes for the Great Homeland Party (GBP).}
+#'    \item{MİLLET}{MİLLET Partisi'nin oy sayısı, the total number of votes for the Nation Party (MİLLET).}
+#'    \item{MİLLİ YOL}{MİLLİ YOL Partisi'nin oy sayısı, the total number of votes for the National Path Party (MİLLİ YOL).}
+#'    \item{AP}{AP'nin oy sayısı, the total number of votes for the Alliance Party (AP).}
+#'    \item{ADP}{ADP'nin oy sayısı, the total number of votes for the Anatolian Democratic Party (ADP).}
+#'    \item{MHP}{MHP'nin oy sayısı, the total number of votes for the Nationalist Movement Party (MHP).}
+#'    \item{TİP}{TİP'in oy sayısı, the total number of votes for the Workers' Party of Turkey (TİP).}
+#'    \item{DEVA PARTİSİ}{DEVA PARTİSİ'nin oy sayısı, the total number of votes for the DEVA Party (DEVA PARTİSİ).}
+#'    \item{SAADET}{SAADET Partisi'nin oy sayısı, the total number of votes for the Felicity Party (SAADET).}
+#'    \item{VATAN PARTİSİ}{VATAN PARTİSİ'nin oy sayısı, the total number of votes for the Homeland Party (VATAN PARTİSİ).}
+#'    \item{BAĞIMSIZ TOPLAM OY}{BAĞIMSIZ TOPLAM OY sayısı, the total number of votes received by independent candidates.}
+#'    \item{AK PARTİ_%}{AK PARTİ'nin oy yüzdesi, the percentage of valid votes for AK PARTI.}
+#'    \item{İYİ PARTİ_%}{İYİ PARTİ'nin oy yüzdesi, the percentage of valid votes for İYİ PARTİ.}
+#'    \item{SOL PARTİ_%}{SOL PARTİ'nin oy yüzdesi, the percentage of valid votes for SOL PARTİ.}
+#'    \item{BÜYÜK BİRLİK_%}{BÜYÜK BİRLİK'in oy yüzdesi, the percentage of valid votes for BÜYÜK BİRLİK.}
+#'    \item{MEMLEKET_%}{MEMLEKET'in oy yüzdesi, the percentage of valid votes for MEMLEKET.}
+#'    \item{ANAP_%}{ANAP'ın oy yüzdesi, the percentage of valid votes for ANAP.}
+#'    \item{DSP_%}{DSP'nin oy yüzdesi, the percentage of valid votes for DSP.}
+#'    \item{YENİDEN REFAH_%}{YENİDEN REFAH'ın oy yüzdesi, the percentage of valid votes for YENİDEN REFAH.}
+#'    \item{DEM Parti_%}{DEM Parti'nin oy yüzdesi, the percentage of valid votes for DEM Parti.}
+#'    \item{TKP_%}{TKP'nin oy yüzdesi, the percentage of valid votes for TKP.}
+#'    \item{ABP_%}{ABP'nin oy yüzdesi, the percentage of valid votes for ABP.}
+#'    \item{ZAFER PARTİSİ_%}{ZAFER PARTİSİ'nin oy yüzdesi, the percentage of valid votes for ZAFER PARTİSİ.}
+#'    \item{HKP_%}{HKP'nin oy yüzdesi, the percentage of valid votes for HKP.}
+#'    \item{TKH_%}{TKH'nin oy yüzdesi, the percentage of valid votes for TKH.}
+#'    \item{BTP_%}{BTP'nin oy yüzdesi, the percentage of valid votes for BTP.}
+#'    \item{GELECEK PARTİSİ_%}{GELECEK PARTİSİ'nin oy yüzdesi, the percentage of valid votes for GELECEK PARTİSİ.}
+#'    \item{YTP_%}{YTP'nin oy yüzdesi, the percentage of valid votes for YTP.}
+#'    \item{CHP_%}{CHP'nin oy yüzdesi, the percentage of valid votes for CHP.}
+#'    \item{EMEP_%}{EMEP'in oy yüzdesi, the percentage of valid votes for EMEP.}
+#'    \item{HÜDA PAR_%}{HÜDA PAR'ın oy yüzdesi, the percentage of valid votes for HÜDA PAR.}
+#'    \item{HAK-PAR_%}{HAK-PAR'ın oy yüzdesi, the percentage of valid votes for HAK-PAR.}
+#'    \item{OCAK_%}{OCAK'ın oy yüzdesi, the percentage of valid votes for OCAK.}
+#'    \item{AB PARTİ_%}{AB PARTİ'nin oy yüzdesi, the percentage of valid votes for AB PARTİ.}
+#'    \item{DP_%}{DP'nin oy yüzdesi, the percentage of valid votes for DP.}
+#'    \item{GBP_%}{GBP'nin oy yüzdesi, the percentage of valid votes for GBP.}
+#'    \item{MİLLET_%}{MİLLET'in oy yüzdesi, the percentage of valid votes for MİLLET.}
+#'    \item{MİLLİ YOL_%}{MİLLİ YOL'un oy yüzdesi, the percentage of valid votes for MİLLİ YOL.}
+#'    \item{AP_%}{AP'nin oy yüzdesi, the percentage of valid votes for AP.}
+#'    \item{ADP_%}{ADP'nin oy yüzdesi, the percentage of valid votes for ADP.}
+#'    \item{MHP_%}{MHP'nin oy yüzdesi, the percentage of valid votes for MHP.}
+#'    \item{TİP_%}{TİP'in oy yüzdesi, the percentage of valid votes for TİP.}
+#'    \item{DEVA PARTİSİ_%}{DEVA PARTİSİ'nin oy yüzdesi, the percentage of valid votes for DEVA PARTİSİ.}
+#'    \item{SAADET_%}{SAADET'in oy yüzdesi, the percentage of valid votes for SAADET.}
+#'    \item{VATAN PARTİSİ_%}{VATAN PARTİSİ'nin oy yüzdesi, the percentage of valid votes for VATAN PARTİSİ.}
+#'    \item{BAĞIMSIZ TOPLAM OY_%}{BAĞIMSIZ TOPLAM OY'un oy yüzdesi, the total percentage of valid votes received by independent candidates.}
+#' }
+#' @source {YSK (Supreme Election Council)}
+"yerel_secim_2024_il"
+
+#' Information for the overall results of the 2024 Local Elections in Turkey
+#' A dataset showing the total number of votes and the number of mayoral positions (Metropolitan, District, and Town) won by each political party nationwide in the 2024 Local Elections.
+#'
+#' @format A data frame with rows for each political party and 9 variables:
+#' \describe{
+#'    \item{Parti}{parti, the standardized name of the political party.}
+#'    \item{Genel_baskani}{genel başkanı, the general chairperson/leader of the political party at the time of the election.}
+#'    \item{Ittifak}{ittifak, the political alliance the party participated in (if any).}
+#'    \item{Belde}{belde, the number of mayoral positions won in towns (Belde) nationwide.}
+#'    \item{İlçe}{ilçe, the number of mayoral positions won in districts (İlçe) nationwide.}
+#'    \item{Büyükşehir}{büyükşehir, the number of mayoral positions won in metropolitan municipalities (Büyükşehir) nationwide.}
+#'    \item{Toplam}{toplam, the total number of mayoral positions won across all three categories (Belde + İlçe + Büyükşehir).}
+#'    \item{Oy}{oy, the total number of votes received by the party nationwide.}
+#'    \item{Yuzde}{yüzde, the percentage of total votes received by the party nationwide.}
+#' }
+#' @source {YSK (Supreme Election Council)}
+"yerel_secim_2024_turkiye"
 

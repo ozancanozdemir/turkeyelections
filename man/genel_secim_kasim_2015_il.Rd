@@ -7,17 +7,17 @@
 \format{
 A data frame with 81 rows and 11 variables:
 \describe{
-  \item{Il}{il, the name of the province}
-  \item{MV}{mv, the number of parliamentary seats in each province}
-  \item{AK_Parti}{ak parti oy sayisi, the number of votes that the Justice and Development Party (AK Parti) received}
-  \item{AK_Parti_\%}{ak parti oy yuzdesi, the percentage of votes that the Justice and Development Party (AK Parti) received}
-  \item{CHP}{chp oy sayisi, the number of votes that the Republican People's Party (CHP) received}
-  \item{CHP_\%}{chp oy yuzdesi, the percentage of votes that the Republican People's Party (CHP) received}
-  \item{MHP}{mhp oy sayisi, the number of votes that the Nationalist Movement Party (MHP) received}
-  \item{MHP_\%}{mhp oy yuzdesi, the percentage of votes that the Nationalist Movement Party (MHP) received}
-  \item{HDP}{hdp oy sayisi, the number of votes that the Peoples' Democratic Party (HDP) received}
-  \item{HDP_\%}{hdp oy yuzdesi, the percentage of votes that the Peoples' Democratic Party (HDP) received}
-  \item{Toplam}{toplam oy sayisi, the total number of votes cast in each province}
+\item{Il}{il, the name of the province}
+\item{MV}{mv, the number of parliamentary seats in each province}
+\item{AK_Parti}{ak parti oy sayisi, the number of votes that the Justice and Development Party (AK Parti) received}
+\item{AK_Parti_\%}{ak parti oy yuzdesi, the percentage of votes that the Justice and Development Party (AK Parti) received}
+\item{CHP}{chp oy sayisi, the number of votes that the Republican People's Party (CHP) received}
+\item{CHP_\%}{chp oy yuzdesi, the percentage of votes that the Republican People's Party (CHP) received}
+\item{MHP}{mhp oy sayisi, the number of votes that the Nationalist Movement Party (MHP) received}
+\item{MHP_\%}{mhp oy yuzdesi, the percentage of votes that the Nationalist Movement Party (MHP) received}
+\item{HDP}{hdp oy sayisi, the number of votes that the Peoples' Democratic Party (HDP) received}
+\item{HDP_\%}{hdp oy yuzdesi, the percentage of votes that the Peoples' Democratic Party (HDP) received}
+\item{Toplam}{toplam oy sayisi, the total number of votes cast in each province}
 }
 }
 \source{

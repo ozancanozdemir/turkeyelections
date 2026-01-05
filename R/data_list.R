@@ -41,7 +41,9 @@ data_list<-function(){
     "yerel_secim_2014_buyuksehir_turkiye",
     "yerel_secim_2014_il",
     "yerel_secim_2019_buyuksehir_turkiye",
-    "yerel_secim_2019_il"
+    "yerel_secim_2019_il",
+    "yerel_secim_2024_il",
+    "yerel_secim_2024_turkiye"
   )
 
   election_names<-c("2014 Cumhurbaskanligi Secimi (Illere gore sonuclar)",
@@ -77,7 +79,9 @@ data_list<-function(){
                     "2014 Belediye Baskanligi Secimi (Illere gore sonuclar)",
                     "2014 Belediye Baskanligi Secimi (Turkiye geneli)",
                     "2019 Belediye Baskanligi Secimi (Illere gore sonuclar)",
-                    "2019 Belediye Baskanligi Secimi (Turkiye geneli)")
+                    "2019 Belediye Baskanligi Secimi (Turkiye geneli)",
+                    "2024 Belediye Baskanligi Secimi (Illere gore sonuclar)",
+                    "2024 Belediye Baskanligi Secimi (Turkiye geneli)")
   df<-data.frame(election_names,data_name)
   return(df)
 }

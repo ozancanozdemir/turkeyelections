@@ -6,15 +6,15 @@
 \title{Information for the results of the second round of the presidential election in Turkey by province in 2023}
 \format{
 A data frame with 81 rows and 8 variables:
- \describe{
-  \item{Il_Adi}{il adi, the name of the province}
-  \item{Kayitli_Secmen_Sayisi}{kayitli secmen sayisi, the number of registered voters}
-  \item{Oy_Kullanan_Secmen_Sayisi}{oy kullanan secmen sayisi, the number of voters who vote}
-  \item{Gecerli_Oy_Toplami}{gecerli oy toplami, the total number of valid votes}
-  \item{RECEP_TAYYIP_ERDOGAN}{recep tayyip erdoganin aldigi oy sayisi, the number of valid votes that Recep Tayyip Erdogan received}
-  \item{KEMAL_KILICDAROGLU}{kemal kilicdaroglunun aldigi oy sayisi, the number of valid votes that Kemal Kilicdaroglu received}
-  \item{RECEP_TAYYIP_ERDOGAN_\%}{recep tayyip erdoganin aldigi oy yuzdesi, the percentage of valid votes that Recep Tayyip Erdogan received}
-  \item{KEMAL_KILICDAROGLU_\%}{kemal kilicdaroglunun aldigi oy yuzdesi, the percentage of valid votes that Kemal Kilicdaroglu received}
+\describe{
+\item{Il_Adi}{il adi, the name of the province}
+\item{Kayitli_Secmen_Sayisi}{kayitli secmen sayisi, the number of registered voters}
+\item{Oy_Kullanan_Secmen_Sayisi}{oy kullanan secmen sayisi, the number of voters who vote}
+\item{Gecerli_Oy_Toplami}{gecerli oy toplami, the total number of valid votes}
+\item{RECEP_TAYYIP_ERDOGAN}{recep tayyip erdoganin aldigi oy sayisi, the number of valid votes that Recep Tayyip Erdogan received}
+\item{KEMAL_KILICDAROGLU}{kemal kilicdaroglunun aldigi oy sayisi, the number of valid votes that Kemal Kilicdaroglu received}
+\item{RECEP_TAYYIP_ERDOGAN_\%}{recep tayyip erdoganin aldigi oy yuzdesi, the percentage of valid votes that Recep Tayyip Erdogan received}
+\item{KEMAL_KILICDAROGLU_\%}{kemal kilicdaroglunun aldigi oy yuzdesi, the percentage of valid votes that Kemal Kilicdaroglu received}
 }
 }
 \source{

@@ -6,17 +6,17 @@
 \title{Information for the results of the presidential election in Turkey by province in 2014}
 \format{
 data frame with 81 rows and 10 variables
-  \describe{
-  \item{Il_Adi}{il adi, the name of the province}
-  \item{Kayitli_Secmen_Sayisi}{kayitli secmen sayisi, the number of voters}
-  \item{Oy_Kullanan_Secmen_Sayisi}{oy kullanan secmen sayisi, the number of voters who vote}
-  \item{Gecerli_Oy_Toplami}{gecerli oy sayisi, the number of valid votes}
-  \item{RECEP_TAYYIP_ERDOGAN}{recep tayyip erdoganin aldigi oy sayisi, the number of valid votes that recep tayyip erdogan received}
-  \item{SELAHATTIN_DEMIRTAS}{selahattin demirtasin aldigi oy sayisi, the number of valid votes that selahattin demirtas received}
-  \item{EKMELEDDIN_MEHMET_IHSANOGLU}{ekmeleddin mehmet ihsanoglunun aldigi oy sayisi, the number of valid votes that ekmeleddin mehmet ihsanoglu received}
-  \item{RECEP_TAYYIP_ERDOGAN_\%}{recep tayyip erdoganin aldigi oy yuzdesi, the percentage of valid votes that recep tayyip erdogan received}
-  \item{SELAHATTIN_DEMIRTAS_\%}{selahattin demirtasin aldigi oy yuzdesi, the percentage of valid votes that selahattin demirtas received}
-  \item{EKMELEDDIN_MEHMET_IHSANOGLU_\%}{ekmeleddin mehmet ihsanoglunun aldigi oy yuzdesi, the percentage of valid votes that ekmeleddin mehmet ihsanoglu received}
+\describe{
+\item{Il_Adi}{il adi, the name of the province}
+\item{Kayitli_Secmen_Sayisi}{kayitli secmen sayisi, the number of voters}
+\item{Oy_Kullanan_Secmen_Sayisi}{oy kullanan secmen sayisi, the number of voters who vote}
+\item{Gecerli_Oy_Toplami}{gecerli oy sayisi, the number of valid votes}
+\item{RECEP_TAYYIP_ERDOGAN}{recep tayyip erdoganin aldigi oy sayisi, the number of valid votes that recep tayyip erdogan received}
+\item{SELAHATTIN_DEMIRTAS}{selahattin demirtasin aldigi oy sayisi, the number of valid votes that selahattin demirtas received}
+\item{EKMELEDDIN_MEHMET_IHSANOGLU}{ekmeleddin mehmet ihsanoglunun aldigi oy sayisi, the number of valid votes that ekmeleddin mehmet ihsanoglu received}
+\item{RECEP_TAYYIP_ERDOGAN_\%}{recep tayyip erdoganin aldigi oy yuzdesi, the percentage of valid votes that recep tayyip erdogan received}
+\item{SELAHATTIN_DEMIRTAS_\%}{selahattin demirtasin aldigi oy yuzdesi, the percentage of valid votes that selahattin demirtas received}
+\item{EKMELEDDIN_MEHMET_IHSANOGLU_\%}{ekmeleddin mehmet ihsanoglunun aldigi oy yuzdesi, the percentage of valid votes that ekmeleddin mehmet ihsanoglu received}
 }
 }
 \source{

@@ -7,21 +7,21 @@
 \format{
 A data frame with 81 rows and 15 variables:
 \describe{
-  \item{Il}{il, the name of the province}
-  \item{MV}{mv, the number of parliamentary seats in each province}
-  \item{DSP}{dsp oy sayisi, the number of votes that the Democratic Left Party (DSP) received}
-  \item{DSP_\%}{dsp oy yuzdesi, the percentage of votes that the Democratic Left Party (DSP) received}
-  \item{MHP}{mhp oy sayisi, the number of votes that the Nationalist Movement Party (MHP) received}
-  \item{MHP_\%}{mhp oy yuzdesi, the percentage of votes that the Nationalist Movement Party (MHP) received}
-  \item{FP}{fp oy sayisi, the number of votes that the Virtue Party (FP) received}
-  \item{FP_\%}{fp oy yuzdesi, the percentage of votes that the Virtue Party (FP) received}
-  \item{ANAP}{anap oy sayisi, the number of votes that the Motherland Party (ANAP) received}
-  \item{ANAP_\%}{anap oy yuzdesi, the percentage of votes that the Motherland Party (ANAP) received}
-  \item{DYP}{dyp oy sayisi, the number of votes that the True Path Party (DYP) received}
-  \item{DYP_\%}{dyp oy yuzdesi, the percentage of votes that the True Path Party (DYP) received}
-  \item{Diger}{diger parti oy sayisi, the number of votes that other parties received}
-  \item{Diger_\%}{diger parti oy yuzdesi, the percentage of votes that other parties received}
-  \item{Toplam}{toplam oy sayisi, the total number of votes cast in each province}
+\item{Il}{il, the name of the province}
+\item{MV}{mv, the number of parliamentary seats in each province}
+\item{DSP}{dsp oy sayisi, the number of votes that the Democratic Left Party (DSP) received}
+\item{DSP_\%}{dsp oy yuzdesi, the percentage of votes that the Democratic Left Party (DSP) received}
+\item{MHP}{mhp oy sayisi, the number of votes that the Nationalist Movement Party (MHP) received}
+\item{MHP_\%}{mhp oy yuzdesi, the percentage of votes that the Nationalist Movement Party (MHP) received}
+\item{FP}{fp oy sayisi, the number of votes that the Virtue Party (FP) received}
+\item{FP_\%}{fp oy yuzdesi, the percentage of votes that the Virtue Party (FP) received}
+\item{ANAP}{anap oy sayisi, the number of votes that the Motherland Party (ANAP) received}
+\item{ANAP_\%}{anap oy yuzdesi, the percentage of votes that the Motherland Party (ANAP) received}
+\item{DYP}{dyp oy sayisi, the number of votes that the True Path Party (DYP) received}
+\item{DYP_\%}{dyp oy yuzdesi, the percentage of votes that the True Path Party (DYP) received}
+\item{Diger}{diger parti oy sayisi, the number of votes that other parties received}
+\item{Diger_\%}{diger parti oy yuzdesi, the percentage of votes that other parties received}
+\item{Toplam}{toplam oy sayisi, the total number of votes cast in each province}
 }
 }
 \source{

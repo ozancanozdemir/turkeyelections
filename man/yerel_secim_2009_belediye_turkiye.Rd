@@ -7,11 +7,11 @@
 \format{
 A data frame with 20 rows and 5 variables:
 \describe{
-  \item{Parti}{parti, the name of the political party}
-  \item{Genel_baskani}{genel baskani, the general chairperson of the political party}
-  \item{Oy}{oy, the total number of votes received by the party}
-  \item{Yuzde}{yuzde, the percentage of votes received by the party}
-  \item{Belediye_Baskanligi_Sayisi}{belediye baskanligi sayisi, the number of mayoral positions won by the party}
+\item{Parti}{parti, the name of the political party}
+\item{Genel_baskani}{genel baskani, the general chairperson of the political party}
+\item{Oy}{oy, the total number of votes received by the party}
+\item{Yuzde}{yuzde, the percentage of votes received by the party}
+\item{Belediye_Baskanligi_Sayisi}{belediye baskanligi sayisi, the number of mayoral positions won by the party}
 }
 }
 \source{

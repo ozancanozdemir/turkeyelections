@@ -1,25 +1,25 @@
 Package: turkeyelections
 Type: Package
 Title: The Most Comprehensive R Package for Turkish Election Results
-Version: 0.1.2
+Version: 0.1.4
 Authors@R: c(
     person(given = "Ozancan",
              family = "Ozdemir",
              role = c("aut","cre"),
              email = "ozancanozdemir@gmail.com"))
-Description: Includes the results of general, local, and presidential elections held in Turkey between 1995 and 2023, broken down by provinces and overall national results. It facilitates easy processing of this data and the creation of visual representations based on these election results.
+Description: Includes the results of general, local, and presidential elections held in Turkey between 1995 and 2024, broken down by provinces and overall national results. It facilitates easy processing of this data and the creation of visual representations based on these election results.
 License: MIT + file LICENSE
 URL: https://github.com/ozancanozdemir/turkeyelections
 BugReports: https://github.com/ozancanozdemir/turkeyelections/issues
 Depends:
-    R (>= 4.0)
+    R (>= 4.1.0)
 Imports:
     ggplot2,
-    ggpol,
     stringr,
     dplyr,
     stats,
-    colorRamp2
+    colorRamp2,
+    ggforce
 Suggests: 
     testthat (>= 3.0.0),
     devtools,
@@ -30,3 +30,4 @@ Encoding: UTF-8
 LazyData: true
 Config/testthat/edition: 3
 RoxygenNote: 7.2.3
+Roxygen: list(markdown = TRUE)
